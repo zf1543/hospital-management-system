@@ -1,0 +1,16 @@
+release/PatientInfo.o
+release/StuDialog.o
+release/main.o
+release/StudentMS.o
+release/StuSubWindow.o
+release/StyleSelector.o
+release/SortDialog.o
+release/LoginDialog.o
+release/FilterDialog.o
+release/qrc_resource.o
+release/moc_StuDialog.o
+release/moc_StudentMS.o
+release/moc_StuSubWindow.o
+release/moc_SortDialog.o
+release/moc_LoginDialog.o
+release/moc_FilterDialog.o

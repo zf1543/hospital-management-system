@@ -1,0 +1,16 @@
+debug/PatientInfo.o
+debug/StuDialog.o
+debug/main.o
+debug/StudentMS.o
+debug/StuSubWindow.o
+debug/StyleSelector.o
+debug/SortDialog.o
+debug/LoginDialog.o
+debug/FilterDialog.o
+debug/qrc_resource.o
+debug/moc_StuDialog.o
+debug/moc_StudentMS.o
+debug/moc_StuSubWindow.o
+debug/moc_SortDialog.o
+debug/moc_LoginDialog.o
+debug/moc_FilterDialog.o
